@@ -14,7 +14,7 @@ Okay so when it comes down to backups, every night (whenever I go to bed), a bac
 
 To go there now [Click Me.](https://github.com/LimePotato/Minecraft/releases)
 
-##Submitting Bug/Feature reports
+## Submitting Bug/Feature reports
 
 If youd like to report a bug, player, or request for a feature, then we use the [Issue tracker](https://github.com/LimePotato/Minecraft/issues), all you do is hit "new" and type away what youd like, now be sure to click on "Labels" on the right side, and select all that apply to your report.
 
