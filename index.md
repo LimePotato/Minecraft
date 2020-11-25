@@ -21,3 +21,5 @@ If youd like to report a bug, player, or request for a feature, then we use the 
 [Click Here to create a new issue](https://github.com/LimePotato/Minecraft/issues/new)
 
 [And here to view an example issue](https://github.com/LimePotato/Minecraft/issues/1)
+
+# Enjoy!
