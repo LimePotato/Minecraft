@@ -1,0 +1,21 @@
+# If the user agreed to the TOS and Privacy statement.
+# Having any value representing "true" filled (either manually changed or through software after manual trigger or third party input) means
+# That you read, understood and agree to everything mentioned in
+# https://github.com/Mindgamesnl/OpenAudioMc/blob/master/LICENCE_and_PRIVACY.md
+legal:
+  accepted: true
+keyset:
+  key-version: 3
+  private: edda60c9-fd3d-4942-9675-1b64f1cbba70
+  link-mode: true
+  server-ip: 104.218.157.248
+  server-cc: US
+  public: 28a0f460-a04c-4447-9ac3-b7ab99ec7065
+debug:
+  log-state-changes: false
+regions:
+  hub: https://www.youtube.com/watch?v=plRztVrDs-M
+  infocntr: https://www.youtube.com/watch?v=rv3Nl-Od9YU
+  sdhbook: https://youtu.be/WbsxFb4Vrik?t=12
+  shop8: https://www.youtube.com/watch?v=07CQrNIFXdc
+  sdh: https://youtu.be/_fVjJmX2GYs

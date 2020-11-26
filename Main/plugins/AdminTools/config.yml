@@ -1,0 +1,11 @@
+general:
+  prefix: '&6[&7ATG&6]'
+system:
+  no_permission: '&4You need the permission &e [Permission] &4 to perform this command!'
+Message:
+  whitelist: '&aWhitelist Status:&c'
+  whitelisted: '&aAmount of whitelisted Players:&c'
+  onlineplayers: '&aPlayers online:&c'
+  serverversion: '&aServer version:&c'
+  bannedplayers: '&aAmount of banned Players:&c'
+  onlinemode: '&aOnlineMode:&c'

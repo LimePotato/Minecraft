@@ -1,0 +1,9 @@
+blockedcmd:
+- examplecommand
+blockedworlds:
+- mycoolworld
+
+
+no-perm: "&cYou don't have permission for that command"
+command-not-allowed: "&cYou don't have permission to execute this command in this world"
+

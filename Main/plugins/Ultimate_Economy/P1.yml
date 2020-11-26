@@ -1,0 +1,69 @@
+ShopLocation:
+  x: -2.5936845218272637
+  y: 82.0
+  z: -60.749567579579065
+  World: hub
+ShopName: mastercraftsman
+ShopSize: 9
+Owner: Ace770
+ShopItems:
+  ItemStack{BAKED_POTATO x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: BAKED_POTATO
+    Amount: 1
+    Slot: 0
+    sellPrice: 4.0
+    buyPrice: 2.0
+    newSaveMethod: 'true'
+    stock: 75
+  ItemStack{GOLD_INGOT x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: GOLD_INGOT
+    Amount: 1
+    Slot: 1
+    sellPrice: 20.0
+    buyPrice: 10.0
+    newSaveMethod: 'true'
+    stock: 21
+  ItemStack{COAL_BLOCK x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: COAL_BLOCK
+    Amount: 1
+    Slot: 2
+    sellPrice: 25.0
+    buyPrice: 15.0
+    newSaveMethod: 'true'
+    stock: 4
+  ItemStack{WHEAT_SEEDS x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: WHEAT_SEEDS
+    Amount: 64
+    Slot: 3
+    sellPrice: 10.0
+    buyPrice: 5.0
+    newSaveMethod: 'true'
+    stock: 448
+  ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=1}}}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: IRON_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          SOUL_SPEED: 1
+    Amount: 1
+    Slot: 4
+    sellPrice: 60.0
+    buyPrice: 20.0
+    newSaveMethod: 'true'
+    stock: 1

@@ -1,0 +1,48 @@
+# In this file you define your groups and the worlds in them.
+# Follow this format:
+# groups:
+#   default:
+#     worlds:
+#     - world
+#     - world_nether
+#     - world_the_end
+#     default-gamemode: SURVIVAL
+#   creative:
+#     worlds:
+#     - creative
+#     default-gamemode: CREATIVE
+#
+# 'default' and 'creative' are the names of the groups
+# worlds: is a list of all worlds in the group
+# If you have 'manage-gamemodes' set to true in the main config, the server
+# will use the 'default-gamemode' here to know what gamemode to put users in.
+groups:
+  default:
+    worlds:
+    - world
+    - world_nether
+    - world_the_end
+    default-gamemode: SURVIVAL
+    respawnWorld: world
+  Main:
+    worlds:
+    - Survival
+    - Survival_nether
+    - Survival_the_end
+    - hub
+    default-gamemode: SURVIVAL
+    respawnWorld: Survival
+  Realm1:
+    worlds:
+    - realm1
+    - realm1_nether
+    - realm1_the_end
+    default-gamemode: SURVIVAL
+    respawnWorld: realm1
+  Realm2:
+    worlds:
+    - realm2
+    - realm2_nether
+    - realm2_the_end
+    default-gamemode: SURVIVAL
+    respawnWorld: realm2

@@ -1,0 +1,3 @@
+on teleport:
+    if world is "hub":
+        execute console command "/godmode %player% on"

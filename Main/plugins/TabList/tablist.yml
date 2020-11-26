@@ -1,0 +1,92 @@
+# Tablist header & footer with animations.
+
+# Available placeholders: https://github.com/montlikadani/TabList/wiki/Placeholders
+# Available symbols: https://github.com/montlikadani/TabList/wiki/Symbols
+
+# Use %anim:animationName% placeholder to make an animation. Must be firstly created in animcreator.yml file!
+
+# How do I use this tab section? Usage: https://github.com/montlikadani/TabList/wiki/TabList-Usage
+
+# Enable the tab? (Header & footer)
+enabled: true
+
+# Save the toggled tablists to a file and load them after server restart.
+# If this false, if the file is exists, it will be deleted automatically at server restart.
+remember-toggled-tablist-to-file: true
+
+# Hide tab when the player is vanished?
+# Requires Essentials, CMI or SuperVanish plugin!
+hide-tab-when-player-vanished: false
+
+# In these worlds tab will NOT be displayed
+disabled-worlds:
+- "world1"
+- "worldTest"
+
+# For these players tab will NOT be displayed
+blacklisted-players:
+#- myname
+
+# Custom variables that will be replaced in tablist.
+# This is useful when creating a lot of lines with the same content.
+# Usage: <NameOfPlaceholder>: "&6Text..."
+custom-variables:
+  <name>: "&5&o%player%"
+  <lines>: "&5&m======================"
+
+# Tab update time interval. (In ticks!)
+# Set to 0 to disable tab refreshing.
+interval: 4
+
+# Define if the header & footer should be randomized.
+# Animation placeholders won't be affected.
+random: false
+
+header:
+- "&8<1>&7 RAM - free, max:&e %server-ram-max%"
+- "%memory_bar%"
+- "  &e%server-ram-used%         %server-ram-free%"
+
+footer:
+- "<13>&e&l Players:&6 %online-players%&7/&6%max-players%"
+
+# Per world tablist
+per-world:
+  my_nether, otherWorld: # you can add multiple worlds here
+    header: "&3This is a per world plugin %anim:tablist%&3."
+    footer: "&6World:&7 %world%"
+
+  justWorld:
+    header: "%anim:perWorld%"
+    footer: "&6World:&7 %world%"
+
+    # Per player in per world tablist
+    per-player:
+      playerName:
+        header: "&3This is a per player plugin %anim:tablist%&3."
+        footer:
+        - "&6World:&7 %world%"
+        - "&aPlayer:&8 %player%"
+
+  testWorld:
+    # Per group in per world tablist
+    # Requires Vault plugin!
+    per-group:
+      groupName:
+        header: "&3This is a per group plugin %anim:tablist%&3."
+        footer:
+        - "&6World:&7 %world%"
+        - "&aGroup:&8 %vault_rank%"
+
+# Per player tablist
+per-player:
+  testplayer:
+    header: "%anim:perPlayer%"
+    footer: "<lines>"
+
+# Per group tablist
+# Requires Vault plugin!
+per-group:
+  vaultGroup:
+    header: "%anim:perGroupHead%"
+    footer: "%anim:perGroupFoot%"

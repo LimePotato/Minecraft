@@ -1,0 +1,29 @@
+# Global group to display for all players
+# Leave it empty or remove it, if you don't want to use
+globalGroup:
+  prefix: ""
+  suffix: ""
+
+groups:
+  # Group name, you can write anything in here.
+  # If you use a player name instead, it will apply only for the player.
+  # This will be ignored by default.
+  exampleGroup:
+    prefix: "&a[&cStaff&a]&6 "
+    suffix: "&7 <12>"
+    # (Optional)
+    # Sorting the groups/players (lower number = higher in player list)
+    #sort-priority: 0
+    # (Optional)
+    # This permission must be set in the permission system.
+    #permission: tablist.staff
+
+  Default:
+    prefix: "&7"
+  Admin:
+    prefix: "&7<62>&r %anim:Admin%"
+    suffix: "&7 <62>"
+    sort-priority: 0
+  PlayerName:
+    prefix: "&a[MyGroup]&7"
+    sort-priority: 1

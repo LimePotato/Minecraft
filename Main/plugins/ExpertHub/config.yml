@@ -1,0 +1,74 @@
+hide-players: false
+set-adventure: false
+reloaded: '&aConfiguration reloaded.'
+no-perm: '&cYou do not have permission!'
+wrong-args: '&cWrong command!'
+only-players: '&cOnly players can use this command!'
+spawn-set: '&aSpawn point set!'
+WelcomeMessage:
+  enabled: false
+  list:
+  - '&f[&c*&f] &bWelcome &e%player% &bto server!'
+  - '&dGood luck!'
+  - <player> just joined the server - glhf!
+  - Ha! <player> has joined! You activated my trap card!
+  - A <player> has spawned in the server.
+  - <player> has arrived. Party's over.
+  - Hello. Is it <player> you're looking for?
+  - It's a bird! It's a plane! Nevermind, it's just <player>.
+  - <player> just slid into the server.
+  - A wild <player> appeared!
+  - Who's that?! Oh it's just <player>.
+  - Okay who left the door open? <player> just walked in.
+  - Party's over, <player> just joined.
+  - Where is the music coming from? Oh it's just <player>.
+  - Run! <player> just came through the portal!
+  - Welcome <player>, are you the new merchant?
+  - <player> just joined. Can I get a heal?
+  - <player> just crash landed into the server!
+  - <player> just joined. Hide your diamonds.
+  - <player> just joined. Hide your gold.
+  - <player> just joined. Hide your ender perals.
+  - <player> just joined. Hide your valuables.
+  - <player> just joined. Everyone, look busy!
+  - <player> just joined, press F in chat.
+  - Someone grab some water! <player> just dropped in with their mixtape!
+  - <player> has arrived. Someone close the gate!
+  - Uh oh. <player> is here.
+  - <player> is here, as the prophecy foretold.
+  - We've been expecting you <player>.
+  - <player> just joined, hopefully they don't notice their missing items.
+MOTD:
+  enabled: false
+  line-1: '&6Colourful server...'
+  line-2: '&dEnjoy!'
+BCJoinMessage:
+  enabled: false
+  message: '&dPlayer &e%player% &djoined the game!'
+BCQuitMessage:
+  enabled: true
+  message: '&cPlayer &e%player% &cleft the game ☹☹☹☹☹☹'
+Title:
+  enabled: false
+  title: '&a&lWelcome to ⁿᵘˡˡ!'
+  subtitle: '&8ur mom'
+ChatFormat:
+  enabled: false
+  prefix: '&f[&cAdmin&f] '
+  color: '&b'
+  division: ' &c➤ '
+DropRespawn:
+  enabled: false
+  respawn-teleport: WORLD_SPAWN
+SpawnOnJoin:
+  enabled: false
+  spawn-teleport: WORLD_SPAWN
+AuthMe:
+  enabled: false
+  message:
+    enabled: false
+    message: '&dSuccessful login!'
+  title:
+    enabled: true
+    title: '&cSuccessful login!'
+    subtitle: '&eEnjoy!'

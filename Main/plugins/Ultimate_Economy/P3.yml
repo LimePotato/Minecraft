@@ -1,0 +1,20 @@
+ShopLocation:
+  x: 23.321622858776536
+  y: 83.0
+  z: -56.47544077057164
+  World: hub
+ShopName: HotChocolately
+ShopSize: 9
+Owner: Dyl_Snickle
+ShopItems:
+  ItemStack{EGG x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: EGG
+    Slot: 0
+    newSaveMethod: 'true'
+    sellPrice: 40.0
+    buyPrice: 10.0
+    Amount: 4
+    stock: 271

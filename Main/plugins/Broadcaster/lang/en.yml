@@ -1,0 +1,21 @@
+Started: "&aThe Broadcast was successfully started."
+Paused: "&aThe Broadcast is now paused, until it is resumed."
+Stopped: "&aThe Broadcast was successfully stopped."
+AlreadyRunning: "&cThe Broadcast is already running!"
+AlreadyStopped: "&cThe Broadcast was already stopped!"
+Starting: "&6Trying to start the Broadcast..."
+ReloadStopped: "&cBroadcast stopped because of reload!"
+NoPermission: "&cYou don't have permission to do that!"
+Arguments: "&cToo few arguments!"
+
+Words:
+  Help: "Help"
+  Status: "Status"
+
+CommandHelp:
+  Brc: "Show a list of available commands."
+  Cast: "Cast a custom message around the server."
+  Reload: "Reload configuration files from disk. Broadcasting will be stopped."
+  Start: "Start the broadcast."
+  Stop: "Stop the broadcast."
+  Status: "Shows an inventory gui, which can be used to control the plugin"

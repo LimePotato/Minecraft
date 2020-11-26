@@ -1,0 +1,26 @@
+# AdvancementsAddon by LimeGlass
+# 
+# This file generates all syntax registered.
+# All syntax can be edited to your liking. Enjoy!
+
+Syntax:
+  Effects:
+    AdvancementCreate:
+    - (make|create) [a[n]] advancement [[with] name[d]] %string%[[(,| and)] [with]]
+      title %string%[[(,| and)] [with]] desc[ription] %string%[[(,| and)] [with]]
+      icon %string%[[(,| and)] [with]] trigger %string%[[(,| and)] [with]] background
+      %string%[[(,| and)] [for]] world %string%[[(,| and)] [with]] item %itemtype%
+    AdvancementAward:
+    - (award|give) [all criteria of] advancement %advancement% to %player%
+    AdvancementRevoke:
+    - (revoke|take|remove) [all criteria of] advancement %advancement% from %player%
+  Expressions:
+    AdvancementKey:
+    - advancement [name[ ]spaced] key of %advancement%
+    - '%advancement%''s advancement [name[ ]spaced] key'
+    AdvancementProgress:
+    - advancement progress of %advancement% (for|of|from) %player%
+    - '%player%''s advancement progress for %advancement%'
+    AdvancementCriteria:
+    - advancement criteria of %advancement%
+    - '%advancement%''s advancement criteria'

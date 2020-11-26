@@ -1,0 +1,10 @@
+#version ( DONT CHANGE ) 
+version: 1
+
+Messages:
+ PREFIX: "&7[&cAntiswear&7]"
+ ERROR: "%PREFIX% &cSomething went wrong!"
+ INVALID_SYNTEX: "%PREFIX% &cInvalid Syntex!"
+ INAVLID_PERMISSION: "%PREFIX% &cyou dont have permission for that!"
+ INAVLID_ENTITY: "%PREFIX% &cPlayers only!"
+ BAD_WORD_USAGE: "%PREFIX% &cYou can't say that!"

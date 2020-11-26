@@ -1,0 +1,19 @@
+players:
+  a536e5be-e41d-4676-a4a3-ded6ecc86024:
+    name: SourDoughLL
+    current: Global
+    ignores: ''
+    listen: Trade,Help,BungeeExample,Donator,Staff,AnnouncementExample,GroupChatColorExample,Local,HexExample,Global
+    mutes: ''
+    blockedcommands: ''
+    host: false
+    party: ''
+    filter: true
+    notifications: true
+    nickname: §4~§dBlackCoffee§r
+    spy: false
+    commandspy: false
+    rangedspy: false
+    messagetoggle: true
+    bungeetoggle: true
+    date: 2020/Nov/10 08:23:59

@@ -1,0 +1,79 @@
+ShopLocation:
+  x: 16.977118857483482
+  y: 82.0
+  z: -43.39870508688267
+  World: hub
+ShopName: Example
+ShopSize: 36
+ShopItems:
+  ItemStack{COBBLESTONE x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: COBBLESTONE
+    Amount: 10
+    Slot: 4
+    sellPrice: 5.0
+    buyPrice: 10.0
+    newSaveMethod: 'true'
+  ItemStack{OAK_LOG x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: OAK_LOG
+    Amount: 1
+    Slot: 5
+    sellPrice: 2.0
+    buyPrice: 3.0
+    newSaveMethod: 'true'
+  ItemStack{CHARCOAL x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: CHARCOAL
+    Amount: 1
+    Slot: 6
+    sellPrice: 5.0
+    buyPrice: 5.0
+    newSaveMethod: 'true'
+  ItemStack{DIRT x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: DIRT
+    Amount: 1
+    Slot: 7
+    sellPrice: 1.0
+    buyPrice: 2.0
+    newSaveMethod: 'true'
+  ItemStack{IRON_INGOT x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: IRON_INGOT
+    Amount: 1
+    Slot: 8
+    sellPrice: 10.0
+    buyPrice: 20.0
+    newSaveMethod: 'true'
+  ItemStack{NETHERRACK x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: NETHERRACK
+    Amount: 1
+    Slot: 0
+    sellPrice: 1.0
+    buyPrice: 2.0
+    newSaveMethod: 'true'
+  ItemStack{STONE x 1}:
+    Name:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: STONE
+    Amount: 10
+    Slot: 9
+    sellPrice: 8.0
+    buyPrice: 15.0
+    newSaveMethod: 'true'
+Profession: LIBRARIAN

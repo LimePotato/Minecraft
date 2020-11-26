@@ -1,0 +1,56 @@
+# EXAMPLE of REPORT: "REPORTER">"REPORTED": "Abusing/Spam/Griefing/Hacker/Other" | "NAME OF PLAYER:true/false == if is duty or not."
+# COLORS ARE NOT SUPPORTED FOR: REASON1/2/3/4/5, COLOR FOR EACH REASON, YOU CAN MODIFY JUST IN "reportedBy" or "messageToOP"!
+# PLUGIN MADE BY xQxQx (AlaDyn172).
+UReport1: '&c[USAGE] &b/report <name>'
+UReport2: '&c[USAGE] &b/report <name> <number>'
+UReport3: '&c[USAGE] &b/reset report/<PLAYER>'
+UReport4: '&c[USAGE] &b/ureport <variable> <option>'
+UReport5: '&c[USAGE] &b/reports <player>'
+ConfigReset: '&c[UReport] &aConfig reset!'
+ConfigPlayerReset: '&c[UReport] &aConfig reset for &c-player-&a!'
+DutyON: '&ais now ON-DUTY&7 (For report use: /report)'
+DutyOFF: '&ais now OFF-DUTY&7 (He cant respond to reports!)'
+NR1: '&9Number 1. Abusing'
+NR2: '&9Number 2. Spamming'
+NR3: '&9Number 3. Griefing'
+NR4: '&9Number 4. Cheating'
+NR5: '&9Number 5. Other'
+Reason1: Abusing
+Reason2: Spamming
+Reason3: Griefing
+Reason4: Cheating
+Reason5: Other
+GriefTeleport: false
+reportedBy: '&cYou have been reported by:'
+forReported: '&cfor'
+messageToOP: '&creported the player'
+RSuccess: '&ePlayer has been reported successfully !'
+NoAdminsDuty: '&cThere are no admins ON-DUTY !'
+PlayerNotFound: '&4ERROR: &cPlayer not found !'
+NoPermission: '&4You dont have permission for do this!'
+AlreadyONDuty: '&cYou are already ON-DUTY !'
+AlreadyOFFDuty: '&cYou are already OFF-DUTY !'
+NowONDuty: '&cYou are now ON-DUTY !'
+NowOFFDuty: '&cYou are now OFF-DUTY !'
+Version: 1
+Reports:
+  Reason1: {}
+  Reason2: {}
+  Reason3: {}
+  Reason4:
+    S0UPA: 1
+  Reason5:
+    SourDoughLL: 1
+TeleportTo: {}
+SourDoughLL: false
+stev1ejohn: false
+Jamseven: false
+Ace770: false
+S0UPA: false
+Dyl_Snickle: false
+HourlyGryphon: false
+MistressAllieway: false
+Business_Potato: false
+farfig: false
+Mkai2000: false
+_Dram: false

@@ -1,0 +1,170 @@
+date-format: dd MM yyyy HH:mm:ss
+location-format: 'World: %world% X: %x%, Y: %y%, Z: %z%, Yaw: %yaw%, Pitch: %pitch%'
+args: '&cWrong command!'
+no-perm: '&cYou do not have permission!'
+reloaded: '&aConfiguration reloaded!'
+player-not-exist: '&cPlayer does not exist!'
+unknown: '&eUNKNOWN'
+survival-gamemode: SURVIVAL
+creative-gamemode: CREATIVE
+adventure-gamemode: ADVENTURE
+spectator-gamemode: SPECTATOR
+default-dimension: DEFAULT
+nether-dimension: NETHER
+the-end-dimension: THE END
+economy-error: '&cInstall economy plugins! WITG can not find any!'
+permission-error: '&cInstall permission plugins! WITG can not find any!'
+nbt-error: '&cWhoIsThatGuy got an nbt error! Call the administrator!'
+storm: '&eSTORM'
+stats-title: '&aStats of &e%name%&a:'
+clear: '&eCLEAR'
+enable-vault: false
+enable-nbt: true
+offline-stats:
+  id: true
+  nbt-xptotal: true
+  nbt-flying: true
+  nbt-invulnerable: true
+  nbt-lastlocation: true
+  nbt-xplevel: true
+  nbt-selected-slot: true
+  nbt-deathtime: true
+  nbt-absorptionamount: true
+  nbt-keeplevel: true
+  nbt-canfly: true
+  nbt-canbuild: true
+  nbt-gamemode: true
+  nbt-foodlevel: true
+  nbt-walkspeed: true
+  nbt-health: true
+  nbt-dimension: true
+  vault-balance: true
+  nbt-flyspeed: true
+  name: true
+  lastplayed: true
+  firstplayed: true
+  firstplayeddate: true
+  lastplayeddate: true
+  bedspawnlocation: true
+offline-stats-format:
+  id: '&dID: &f%id%'
+  name: '&dName: &f%name%'
+  firstplayeddate: '&dFirst played: %firstplayeddate%'
+  lastplayeddate: '&dLast played: %lastplayeddate%'
+  vault-balance: '&dBalance: &f%balance%'
+  nbt-flyspeed: '&dFly speed: &f%flyspeed%'
+  nbt-lastlocation: '&dLast location: &f%location%'
+  nbt-xptotal: '&dTotal XP: &f%xptotal%'
+  nbt-deathtime: '&dDeath time: &f%deathtime%'
+  nbt-absorptionamount: '&dAbsorption amount: &f%absorptionamount%'
+  nbt-keeplevel: '&dKeep level: &f%keeplevel%'
+  nbt-canfly: '&dCan fly: &f%canfly%'
+  nbt-canbuild: '&dCan build: &f%canbuild%'
+  nbt-xplevel: '&dXP level: &f%xplevel%'
+  nbt-walkspeed: '&dWalk speed: &f%walkspeed%'
+  nbt-selected-slot: '&dSelected slot: &f%slot%'
+  nbt-gamemode: '&dGameMode: &f%gamemode% (%gamemodename%)'
+  nbt-foodlevel: '&dFood level: &f%foodlevel%'
+  nbt-health: '&dHealth: &f%health%'
+  nbt-dimension: '&dDimension: &f%dimension% (%dimensionname%)'
+  nbt-flying: '&dFlying: &f%flying%'
+  nbt-invulnerable: '&dInvulnerable: &f%invulnerable%'
+  lastplayed: '&dLast played: &f%lastplayed%'
+  firstplayed: '&dFirst played: &f%firstplayed%'
+  bedspawnlocation: '&dBed spawn location: &f%bedspawnlocation%'
+online-stats:
+  sprinting: true
+  hasoffhand: true
+  bedlocation: true
+  vault-balance: true
+  vault-primarygroup: true
+  vault-playergroups: true
+  sleeping: true
+  sneaking: true
+  istimerelative: false
+  isflying: true
+  walkspeed: false
+  totalexp: false
+  saturation: true
+  playerweather: false
+  playertimeoffset: false
+  playertime: false
+  locale: true
+  level: true
+  foodlevel: true
+  flyspeed: false
+  exp: true
+  exhaustion: true
+  address: true
+  viewdistance: false
+  allowflight: true
+  openinventory: false
+  name: true
+  gamemode: true
+  firstplayeddate: true
+  id: true
+  firstplayed: false
+  exptolevel: false
+  remainingair: false
+  nodamageticks: false
+  lastdamage: false
+  isop: true
+  displayname: true
+  canpickupitems: true
+  maxair: false
+  health: true
+  vehicle: true
+  tickslived: false
+  selectedslot: true
+  lastdamagecause: false
+  compasstarget: false
+  location: true
+  bedspawnlocation: false
+online-stats-format:
+  sprinting: '&dSprinting: &f%sprinting%'
+  isop: '&dIs op: &f%isop%'
+  hasoffhand: '&dHas item in other hand: &f%hasoffhand%'
+  selectedslot: '&dSelcected slot: &f%selectedslot%'
+  firstplayeddate: '&dFirst played: %firstplayeddate%'
+  bedlocation: '&dBed location: &f%bedlocation%'
+  vault-balance: '&dBalance: &f%balance%'
+  vault-primarygroup: '&dPrimary group: &f%primarygroup%'
+  vault-playergroups: '&dPlayer groups: &f%playergroups%'
+  sneaking: '&dSneaking: &f%sneaking%'
+  istimerelative: '&dTime relative: &f%timerelative%'
+  isflying: '&dFlying: &f%flying%'
+  sleeping: '&dSleeping: &f%sleeping%'
+  walkspeed: '&dWalk speed: &f%walkspeed%'
+  totalexp: '&dTotal exp: &f%totalexp%'
+  saturation: '&dSaturation: &f%saturation%'
+  playerweather: '&dPlayer weather: &f%playerweather%'
+  playertimeoffset: '&dPlayer time offset: &f%playertimeoffset% ticks'
+  playertime: '&dPlayer time: &f%playertime% ticks'
+  locale: '&dLocale: &f%locale%'
+  level: '&dLevel: &f%level%'
+  foodlevel: '&dFood level: &f%foodlevel%'
+  flyspeed: '&dFly speed: &f%flyspeed%'
+  exp: '&dExp: &f%exp%'
+  exhaustion: '&dExhaustion: &f%exhaustion%'
+  address: '&dAddress: &f%address%'
+  viewdistance: '&dClient view distance: &f%viewdistance%'
+  allowflight: '&dCan fly: &f%allowflight%'
+  openinventory: '&dInventory opened: &f%openinventory%'
+  name: '&dName: &f%name%'
+  gamemode: '&dGamemode: &f%gamemode%'
+  id: '&dUUID: &f%id%'
+  firstplayed: '&dFirst played: &f%firstplayed%'
+  exptolevel: '&dExp to next level: &f%exptoleve%'
+  remainingair: '&dRemaining air: &f%remainingair%'
+  nodamageticks: '&dTicks without damage: &f%nodamageticks%'
+  lastdamage: '&dLast damage: &f%lastdamage%'
+  canpickupitems: '&dCan pickup items: &f%canpickupitems%'
+  maxair: '&dMax air: &f%maxair%'
+  health: '&dHealth: &f%health%'
+  displayname: '&dDisplay name: &f%displayname%'
+  vehicle: '&dVehicle: &f%vehicle%'
+  tickslived: '&dTicks lived: &f%tickslived%'
+  lastdamagecause: '&dLast damage cause: &f%lastdamagecause%'
+  compasstarget: '&dCompass target: &f%compasstarget%'
+  location: '&dLocation: &f%location%'
+  bedspawnlocation: '&dBed spawn location: &f%bedspawnlocation%'

@@ -1,0 +1,244 @@
+## BYTE Reputation config File
+
+## Welcome to the Reputation plugin designed for www.byte.org.uk be careful how you edit the following details use a yaml editor if you do have to edit this file.
+
+
+
+################## world settings #########################
+
+##Enabled worlds
+worlds:
+  - Survival
+  - Survival_nether
+  - Survival_the_end
+  - realm1
+  - realm1_nether
+  - realm1_the_end
+  - realm2
+  - realm2_nether
+  - realm2_the_end
+
+
+################## General settings #########################
+
+##whether to use chat prefix
+usePrefix: true
+##use rank in tab list
+useTabPrefix: false
+
+################## Plugin Links #########################
+
+##turn links to other plugins on and off
+byteScoreboardEnabled: false
+useScoreboardStats: false
+useWorldGuard: true
+useCitizens: false
+
+
+################## Change of tier commands run ###########
+
+##each list is the set of commands that are run when a player changes tier, use <player> to denote player changing teir and <tier> fo the tier.
+
+tier3DownCommands:
+  - say <player> has just become a <tier>
+  - say Oh dear!
+tier2DownCommands:
+  - say <player> has just become a <tier>
+tier1DownCommands:
+  - say <player> has just become a <tier>
+teirNormalCommands:
+  - say <player> has just become a <tier>
+tier1UpCommands:
+  - say <player> has just become a <tier>
+tier2UpCommands:
+  - say <player> has just become a <tier>
+tier3UpCommands:
+  - say <player> has just become a <tier>
+  - say Yipee!
+
+
+
+################# Tier Values ##########################
+
+##custom Teir values, number of points before tier change
+
+##these are negative values 
+tier3Down: 7000
+tier2Down: 3000
+tier1Down: 1000
+
+##these are positive
+tier1Up: 1000
+tier2Up: 3000
+tier3Up: 7000
+
+
+##points modifier per tier (gain extra points per tier difference, if unsure set to 0 for no modifier)
+pointsPerTier: 1
+
+
+################### Points Loss  #########################
+
+##player hit if good rank
+playerHitLoss: 5
+playerKillLoss: 50
+
+
+##pet hit
+catHitLoss: 5
+catKillLoss: 50
+
+dogHitLoss: 5
+dogKillLoss: 50
+
+##citizens npcs
+npcHitLoss: 2
+npcKillLoss: 25
+
+##standard MC npcs
+mcnpcHitLoss: 2
+mcnpcKillLoss: 25
+
+##multiply point loss if in sensitive area
+wgSensitiveRegionLossModifier: 2
+
+#################### Food Types  #########################
+
+##foods to help
+goodFoods:
+  - CARROT
+  - POTATO
+  - APPLE
+  - MUSHROOM_STEW
+  - BREAD
+  - COOKED_PORTCHOP
+  - FISH
+  - COOKED_FISH
+  - COOKIE
+  - MELON
+  - COOKED_BEEF
+  - COOKED_CHICKEN
+  - BAKED_POTATO
+  - PUMPKIN_PIE
+  - COOKED_RABBIT
+  - COOKED_MUTTON
+  - BEETROOT_SOUP
+
+
+##foods to hurt
+badFoods:
+  - POISONOUS_POTATO
+  - SPIDER_EYE
+  - ROTTEN_FLESH
+  - CHICKEN
+  - ROTTEN_FLESH
+
+
+################### Points Gain  #########################
+
+##for giving food 
+giveFoodPoints: 10
+takeFoodPoints: 20
+
+##player hit if evil rank
+playerHitGain: 5
+playerKillGain: 50
+
+## Points per mob damage
+
+creeperHitGain: 1
+creeperKillGain: 15
+
+skeletonHitGain: 0
+skeletonKillGain: 10
+
+zombieHitGain: 0
+zombieKillGain: 5
+
+endermanHitGain: 1
+endermanKillGain: 20
+
+spiderHitGain: 0
+spiderKillGain: 10
+
+caveSpiderHitGain: 0
+caveSpiderKillGain: 8
+
+enderDragonHitGain: 10
+enderDragonKillGain: 100
+
+
+
+
+guardianHitGain: 1
+guardianKillGain: 30
+
+huskHitGain: 0
+huskKillGain: 5
+
+witherHitGain: 1
+witherKillGain: 30
+
+pigZombieHitGain: 0
+pigZombieKillGain: 5
+
+ghastHitGain: 1
+ghastKillGain: 40
+
+magmaCubeHitGain: 0
+magmaCubeKillGain: 20
+
+slimeHitGain: 0
+slimeKillGain: 10
+
+evokerHitGain: 0
+evokerKillGain: 10
+
+vindicatorHitGain: 0
+vindicatorKillGain: 10
+
+vexHitGain: 0
+vexKillGain: 10
+
+endermiteHitGain: 0
+endermiteKillGain: 5
+
+elderGuardianHitGain: 1
+elderGuardianKillGain: 50
+
+strayHitGain: 0
+strayKillGain: 5
+
+phantomHitGain: 1
+phantomKillGain: 60
+
+shulkerHitGain: 0
+shulkerKillGain: 10
+
+dolphinHitGain: -1
+dolphinKillGain: -10
+
+illagerHitGain: 1
+illagerKillGain: 4
+
+illusionerHitGain: 1
+illusionerKillGain: 5
+
+pandaHitGain: -3
+pandaKillGain: -10
+
+polarBearHitGain: 1
+polarBearKillGain: 1
+
+raiderHitGain: 1
+raiderKillGain: 4
+
+ravagerHitGain: 1
+ravagerKillGain: 5
+
+traderLlamaHitGain: -8
+traderLlamaKillGain: -20
+
+wanderingTraderHitGain: -10
+wanderingTraderKillGain: -30
+
