@@ -1,4 +1,0 @@
-command /award <player> <text> <text>:
-	usage: /award <player> <title> <description>
-	trigger:
-		create advancement with name "Example" title "%arg 2%", desc "%arg 3%", icon "minecraft:golden_apple", trigger "minecraft:consume_item", background "minecraft:textures/gui/advancements/backgrounds/stone.png" world "%player's world%" and item golden apple:1

@@ -1,9 +1,0 @@
-#version ( DONT CHANGE ) 
-version: 1
-
-Blacklisted:
- #how close should a word be to a "bad" word in order for it to be considered illegal
- #nigger would be 100% while niggers would be around 95% "illegal"
- 
- accuracy: 0.85 #if a word is simmilar by about 85%, then it will be considered illegal. 
- words: ["nigger", "wigger"]

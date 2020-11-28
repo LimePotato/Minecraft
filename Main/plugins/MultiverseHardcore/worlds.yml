@@ -1,9 +1,0 @@
-hardcore:
-  spectator_mode: 'true'
-  ban_ops: 'true'
-  ban_forever: 'true'
-  respawn_world: 'null'
-  ban_length: '30000'
-  start_date: '1606270122069'
-  include_nether: 'true'
-  include_end: 'true'
