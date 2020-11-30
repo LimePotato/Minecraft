@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2020-11-28 21:09:02 -0700"
@@ -356,6 +362,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2020-10-14 23:15:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-11-29 16:37:17 -0700"
     },
     "done": true
   },
@@ -557,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-11-29 16:37:17 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2020-10-15 16:58:25 -0600"
@@ -590,6 +608,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-07-05 18:47:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
     },
     "done": true
   },
@@ -767,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2020-10-13 17:13:35 -0600"
@@ -896,6 +926,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-07-04 10:20:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
     },
     "done": true
   },
@@ -1193,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-10-15 14:32:27 -0600"
@@ -1370,6 +1412,7 @@
       "minecraft:river": "2020-07-04 10:23:27 -0600",
       "minecraft:lukewarm_ocean": "2020-11-28 23:03:40 -0700",
       "minecraft:wooded_mountains": "2020-07-04 10:26:43 -0600",
+      "minecraft:bamboo_jungle_hills": "2020-11-29 16:36:55 -0700",
       "minecraft:wooded_hills": "2020-07-04 10:20:27 -0600",
       "minecraft:stone_shore": "2020-10-18 14:01:10 -0600",
       "minecraft:wooded_badlands_plateau": "2020-11-28 20:05:20 -0700",
@@ -1549,6 +1592,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-11-27 21:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-11-29 16:37:17 -0700"
     },
     "done": true
   },
@@ -1867,6 +1916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-24 22:18:21 -0700"
@@ -1882,6 +1937,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-07-04 10:36:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
     },
     "done": true
   },
@@ -2474,6 +2535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-10-15 14:32:27 -0600"
@@ -2885,6 +2952,12 @@
   "minecraft:recipes/misc/lapis_from_blasting": {
     "criteria": {
       "has_lapis_ore": "2020-10-15 12:51:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
     },
     "done": true
   },
@@ -3302,6 +3375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-10-14 20:14:50 -0600"
@@ -3314,6 +3393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2020-07-04 10:21:02 -0600"
@@ -3323,6 +3408,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-07-05 18:47:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-11-29 16:18:36 -0700"
     },
     "done": true
   },
