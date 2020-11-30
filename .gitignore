@@ -1,2 +1,8 @@
+#filetypes:
 *.zip 
+*.sh
+*.py
+
+
+#paths:
 *admin/
