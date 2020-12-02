@@ -1,0 +1,1428 @@
+[01:23:52] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:23:52] [Worker-Main-5/INFO]: Loaded 7 recipes
+[01:23:53] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[01:23:53] [Server thread/INFO]: Loading properties
+[01:23:53] [Server thread/INFO]: This server is running Paper version git-Paper-291 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[01:23:54] [Server thread/INFO]: Debug logging is disabled
+[01:23:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:23:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:23:54] [Server thread/INFO]: Using Aikar's Alternative Luck Formula to apply Luck attribute to all loot pool calculations. See https://luckformula.emc.gs
+[01:23:54] [Server thread/INFO]: Default game type: SURVIVAL
+[01:23:54] [Server thread/INFO]: Generating keypair
+[01:23:54] [Server thread/INFO]: Starting Minecraft server on *:25545
+[01:23:54] [Server thread/INFO]: Using epoll channel type
+[01:23:54] [Server thread/ERROR]: Ambiguous plugin name `ViaVersion' for files `plugins/ViaVersion-3.3.0-20w45a.jar' and `plugins/ViaVersion-3.2.0.jar' in `plugins'
+[01:23:55] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:23:58] [Server thread/WARN]: Legacy plugin Antiswear v1.0 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin CraftWork v0.0.1 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin kdCounter v0.0.1 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin MineverseChat v1.0.0 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin WhoIsThatGuy v1.4.1 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin MaintenanceManager v2.2 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin CommandPerWorldBlocker v1.0 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin MultiverseHardcore v1.0 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin BackupOnEvent v1.6.4 does not specify an api-version.
+[01:23:58] [Server thread/ERROR]: Could not load 'plugins/Kauri-Free.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency Atlas. Please download and install Atlas to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:272) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:389) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:206) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:940) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.4.jar:git-Paper-291]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_265]
+[01:23:58] [Server thread/WARN]: Legacy plugin MoreJoinMessages v1.1 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin WorldGuardFlags v0.1.1-dev does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin ColoredTags v2.1.3 does not specify an api-version.
+[01:23:58] [Server thread/WARN]: Legacy plugin HolographicDisplaysAddon v1.0.0b does not specify an api-version.
+[01:23:59] [Server thread/WARN]: Legacy plugin AdvancementsAddon v1.0.0 does not specify an api-version.
+[01:23:59] [Server thread/INFO]: [RedstoneProximitySensor] Loading RedstoneProximitySensor v2.5.2
+[01:23:59] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.52
+[01:23:59] [Server thread/INFO]: [Chunky] Loading Chunky v1.1.14
+[01:23:59] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.9
+[01:23:59] [Server thread/INFO]: [PocketKnife] Loading PocketKnife v2.0.0
+[01:23:59] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.7
+[01:23:59] [Server thread/INFO]: [ZNPCS] Loading ZNPCS v1.7
+[01:23:59] [Server thread/INFO]: [Broadcaster] Loading Broadcaster v2.3.0
+[01:23:59] [Server thread/INFO]: [Antiswear] Loading Antiswear v1.0
+[01:23:59] [Server thread/INFO]: [ANM] Loading AdvancedNMotd v8.0.1
+[01:23:59] [Server thread/INFO]: [CraftWork] Loading CraftWork v0.0.1
+[01:23:59] [Server thread/INFO]: [StickyLocks] Loading StickyLocks v1.0.2
+[01:23:59] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v3.3.0-20w45a
+[01:23:59] [Server thread/INFO]: [ViaVersion] ViaVersion 3.3.0-20w45a is now loaded, injecting!
+[01:23:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[01:23:59] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[01:23:59] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[01:23:59] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[01:23:59] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[01:23:59] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[01:23:59] [Server thread/INFO]: [Gaea] Loading Gaea v1.14.4
+[01:23:59] [Server thread/INFO]: [EasyDeaths] Loading EasyDeaths v1.1
+[01:23:59] [Server thread/INFO]: [kdCounter] Loading kdCounter v0.0.1
+[01:23:59] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v3.2.0
+[01:23:59] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.1.93
+[01:23:59] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[01:23:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:23:59] [Server thread/INFO]: [MineverseChat] Loading MineverseChat v1.0.0
+[01:23:59] [Server thread/INFO]: [ExpertHub] Loading ExpertHub v2.1.2
+[01:23:59] [Server thread/INFO]: [WhoIsThatGuy] Loading WhoIsThatGuy v1.4.1
+[01:23:59] [Server thread/INFO]: [UReport] Loading UReport v5.3
+[01:23:59] [Server thread/INFO]: [AdminTools] Loading AdminTools v1.4.1
+[01:23:59] [Server thread/INFO]: [MaintenanceManager] Loading MaintenanceManager v2.2
+[01:23:59] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.6.0-SNAPSHOT-b483
+[01:23:59] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.16.4) has not yet been tested! Proceed with caution.
+[01:23:59] [Server thread/INFO]: [AdvancedPortals] Loading AdvancedPortals v0.5.10
+[01:23:59] [Server thread/INFO]: [InfoHUD] Loading InfoHUD v1.2
+[01:23:59] [Server thread/INFO]: [ImageMaps] Loading ImageMaps v1.0.3
+[01:23:59] [Server thread/INFO]: [SecondNature] Loading SecondNature v1.0.0
+[01:23:59] [Server thread/INFO]: [HubThat] Loading HubThat v10.1.184
+[01:23:59] [Server thread/INFO]: [CommandPerWorldBlocker] Loading CommandPerWorldBlocker v1.0
+[01:23:59] [Server thread/INFO]: [MultiverseHardcore] Loading MultiverseHardcore v1.0
+[01:23:59] [Server thread/INFO]: [BackupOnEvent] Loading BackupOnEvent v1.6.4
+[01:23:59] [Server thread/INFO]: [MoreJoinMessages] Loading MoreJoinMessages v1.1
+[01:23:59] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[01:23:59] [Server thread/INFO]: [WorldGuardFlags] Loading WorldGuardFlags v0.1.1-dev
+[01:23:59] [Server thread/INFO]: [ChatColor2] Loading ChatColor2 v1.10.2
+[01:23:59] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.5
+[01:23:59] [Server thread/INFO]: [BetterEnd] Loading BetterEnd v4.4.4
+[01:23:59] [Server thread/INFO]: [SignBoard] Loading SignBoard v1.6.5
+[01:23:59] [Server thread/INFO]: [VentureChat] Loading VentureChat v2.20.2
+[01:23:59] [Server thread/INFO]: [AntiCheatReloaded] Loading AntiCheatReloaded v1.9.5
+[01:23:59] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[01:23:59] [Server thread/INFO]: [ColoredTags] Loading ColoredTags v2.1.3
+[01:23:59] [Server thread/INFO]: [iDisguise] Loading iDisguise v5.8.2
+[01:23:59] [Server thread/INFO]: [Ultimate_Economy] Loading Ultimate_Economy v1.2.6b
+[01:23:59] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v4.0.3
+[01:23:59] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.1-b490
+[01:23:59] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0+a51fa43
+[01:24:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@64107078]
+[01:24:00] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[01:24:00] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[01:24:00] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.0-b826
+[01:24:00] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[01:24:00] [Server thread/INFO]: [BetterSleeping3] Loading BetterSleeping3 v3.0.4
+[01:24:00] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.18.2.0
+[01:24:00] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
+[01:24:00] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v4.2.1-b786
+[01:24:00] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v19.2
+[01:24:00] [Server thread/INFO]: [Skript] Loading Skript v2.5.2
+[01:24:00] [Server thread/INFO]: [Reputation] Loading Reputation v1.7.0
+[01:24:00] [Server thread/INFO]: [HolographicDisplaysAddon] Loading HolographicDisplaysAddon v1.0.0b
+[01:24:00] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.20.0
+[01:24:00] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.10.2;21180b0
+[01:24:00] [Server thread/INFO]: [OpenAudioMc] Loading OpenAudioMc v6.3.7
+[01:24:00] [Server thread/INFO]: [AdvancementsAddon] Loading AdvancementsAddon v1.0.0
+[01:24:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:24:00] [Server thread/INFO]: [Gaea] Enabling Gaea v1.14.4
+[01:24:00] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v3.2.0
+[01:24:00] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[01:24:00] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[01:24:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.13 -> 1.12 mappings...
+[01:24:00] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.13.2 -> 1.13 mappings...
+[01:24:00] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.14 -> 1.13.2 mappings...
+[01:24:00] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.15 -> 1.14 mappings...
+[01:24:00] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.15 mappings...
+[01:24:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.16.2 -> 1.16 mappings...
+[01:24:00] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.1.93
+[01:24:00] [Server thread/INFO]:         __    
+[01:24:00] [Server thread/INFO]:   |    |__)   LuckPerms v5.1.93
+[01:24:00] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:24:00] [Server thread/INFO]: 
+[01:24:00] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:24:00] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:24:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:24:01] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:24:01] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1374ms)
+[01:24:01] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.6.0-SNAPSHOT-b483
+[01:24:01] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[01:24:01] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[01:24:01] [Server thread/WARN]: [Vault] Loaded class net.milkbowl.vault.economy.Economy from Ultimate_Economy v1.2.6b which is not a depend, softdepend or loadbefore of this plugin.
+[01:24:01] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[01:24:01] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:24:01] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:24:01] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[01:24:01] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[01:24:01] [Server thread/INFO]: [BetterEnd] Enabling BetterEnd v4.4.4
+[01:24:01] [Server thread/INFO]: [Gaea] Beginning reflections for net.minecraft.server.v1_16_R3.
+[01:24:02] [Server thread/INFO]: [Gaea] Finished reflections. Time elapsed: 46.764342ms
+[01:24:02] [Server thread/INFO]: [BetterEnd] Loading configuration values...
+[01:24:02] [Server thread/INFO]: [BetterEnd] Loading language en_us
+[01:24:02] [Server thread/INFO]: [BetterEnd] Reloading ALL worlds
+[01:24:02] [Server thread/INFO]: [BetterEnd] Complete. Time elapsed: 10.295177ms
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:end_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:end_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: true for blockstate: {Name:"minecraft:end_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:end_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"true",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"true",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{west:"true",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"true",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: true for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: true for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"true",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: true for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"true"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_stone_brick_wall",Properties:{west:"false",waterlogged:"false",up:"true",east:"false",south:"false",north:"false"}}
+[01:24:02] [Server thread/INFO]: [BetterEnd]  
+[01:24:02] [Server thread/INFO]: [BetterEnd]  
+[01:24:02] [Server thread/INFO]: [BetterEnd] |---------------------------------------------------------------------------------|
+[01:24:02] [Server thread/INFO]: [BetterEnd] BetterEnd would not have been possible without the support of the following people:
+[01:24:02] [Server thread/INFO]: [BetterEnd] Developers: dfsek and Baer
+[01:24:02] [Server thread/INFO]: [BetterEnd] Builders: GucciPoochie, sgtmushroom39, Daverono, and Merazmus
+[01:24:02] [Server thread/INFO]: [BetterEnd] Patrons: EtherealSquid
+[01:24:02] [Server thread/INFO]: [BetterEnd] |---------------------------------------------------------------------------------|
+[01:24:02] [Server thread/INFO]: [BetterEnd]  
+[01:24:02] [Server thread/INFO]: [BetterEnd]  
+[01:24:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0+a51fa43
+[01:24:02] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[01:24:02] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[01:24:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:24:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:24:02] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[01:24:02] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[01:24:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:24:02] [Server thread/INFO]: Preparing level "Survival"
+[01:24:02] [Server thread/INFO]: -------- World Settings For [Survival] --------
+[01:24:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:02] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:02] [Server thread/INFO]: View Distance: 18
+[01:24:02] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:02] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:03] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:24:03] [Server thread/INFO]: -------- World Settings For [Survival_nether] --------
+[01:24:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:03] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:03] [Server thread/INFO]: View Distance: 18
+[01:24:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:03] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:03] [Server thread/INFO]: -------- World Settings For [Survival_the_end] --------
+[01:24:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:03] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:03] [Server thread/INFO]: View Distance: 18
+[01:24:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:03] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:24:03] [Server thread/INFO]: Loaded 0 spawn chunks for world Survival
+[01:24:03] [Server thread/INFO]: Preparing spawn area: 0%
+[01:24:03] [Server thread/INFO]: Time elapsed: 374 ms
+[01:24:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:24:03] [Server thread/INFO]: Loaded 0 spawn chunks for world Survival_nether
+[01:24:03] [Server thread/INFO]: Time elapsed: 190 ms
+[01:24:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:24:03] [Server thread/INFO]: Loaded 0 spawn chunks for world Survival_the_end
+[01:24:04] [Server thread/INFO]: Time elapsed: 83 ms
+[01:24:04] [Server thread/INFO]: [RedstoneProximitySensor] Enabling RedstoneProximitySensor v2.5.2
+[01:24:04] [Server thread/INFO]: [RedstoneProximitySensor] Plugin has started!
+[01:24:04] [Server thread/INFO]: [RedstoneProximitySensor] RPS's Loaded: 0
+[01:24:04] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.52
+[01:24:04] [Server thread/INFO]: [Chunky] Enabling Chunky v1.1.14
+[01:24:04] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.9
+[01:24:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[01:24:04] [Server thread/INFO]: [PocketKnife] Enabling PocketKnife v2.0.0
+[01:24:04] [Server thread/INFO]: [PocketKnife] PocketKnife v2.0.0 enabled.
+[01:24:04] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.7
+[01:24:04] [Server thread/INFO]: [ZNPCS] Enabling ZNPCS v1.7
+[01:24:04] [Server thread/INFO]: [Broadcaster] Enabling Broadcaster v2.3.0
+[01:24:04] [Server thread/INFO]: [Broadcaster] Startup...
+[01:24:04] [Server thread/INFO]: [Broadcaster] Loading configuration...
+[01:24:04] [Server thread/INFO]: [Broadcaster] Loading localization...
+[01:24:04] [Server thread/INFO]: [Broadcaster] Initializing main functionality...
+[01:24:04] [Server thread/WARN]: [PocketKnife] Loaded class kotlin.TypeCastException from Broadcaster v2.3.0 which is not a depend, softdepend or loadbefore of this plugin.
+[01:24:04] [Server thread/INFO]: [Broadcaster] Done! v2.3.0
+[01:24:04] [Server thread/INFO]: [Antiswear] Enabling Antiswear v1.0*
+[01:24:05] [Server thread/INFO]:  has an invalid version reseting...
+[01:24:05] [Server thread/INFO]:  has an invalid version reseting...
+[01:24:05] [Server thread/INFO]:  has an invalid version reseting...
+[01:24:05] [Server thread/INFO]: Registered the anitswear.
+[01:24:05] [Server thread/INFO]: [ANM] Enabling AdvancedNMotd v8.0.1
+[01:24:05] [Server thread/INFO]: 
+[01:24:05] [Server thread/INFO]: ---------------- AdvancedNMotd --------------
+[01:24:05] [Server thread/INFO]: Unsupported minecraft server version!
+[01:24:05] [Server thread/INFO]: This copy of ANM only works with 1_8_R1-1_16_R2 servers.
+[01:24:05] [Server thread/INFO]: Disabling AdvancedNMotd!
+[01:24:05] [Server thread/INFO]: ---------------------------------------------
+[01:24:05] [Server thread/INFO]: 
+[01:24:05] [Server thread/INFO]: [ANM] Disabling AdvancedNMotd v8.0.1
+[01:24:05] [Server thread/INFO]: AdvancedNMotd is disabled!
+[01:24:05] [Server thread/INFO]: [CraftWork] Enabling CraftWork v0.0.1*
+[01:24:05] [Server thread/INFO]: [CraftWork] CraftWork enabled
+[01:24:05] [Server thread/INFO]: [StickyLocks] Enabling StickyLocks v1.0.2
+[01:24:05] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v3.3.0-20w45a
+[01:24:05] [Server thread/INFO]: [EasyDeaths] Enabling EasyDeaths v1.1
+[01:24:05] [Server thread/INFO]: [EasyDeaths] ***EasyDeaths plugin by PinkNeonDino***
+[01:24:05] [Server thread/INFO]: [kdCounter] Enabling kdCounter v0.0.1*
+[01:24:05] [Server thread/INFO]: [MineverseChat] Enabling MineverseChat v1.0.0*
+[01:24:05] [Server thread/INFO]: Enabling MineverseChat API
+[01:24:05] [Server thread/INFO]: [ExpertHub] Enabling ExpertHub v2.1.2
+[01:24:05] [Server thread/INFO]: [ExpertHub] Plugin enabled!
+[01:24:05] [Server thread/INFO]: [ExpertHub] PlaceholderAPI hooked.
+[01:24:05] [Server thread/INFO]: [WhoIsThatGuy] Enabling WhoIsThatGuy v1.4.1*
+[01:24:05] [Server thread/INFO]: [WITG] Plugin enabled!
+[01:24:05] [Server thread/INFO]: [UReport] Enabling UReport v5.3
+[01:24:05] [Server thread/INFO]: [UReport] Plugin developed by AlaDyn172 (Discord: Echo#1182). You're using v5.3!
+[01:24:05] [Server thread/INFO]: [AdminTools] Enabling AdminTools v1.4.1
+[01:24:05] [Server thread/INFO]: [AdminTools] Plugin by funky33
+[01:24:05] [Server thread/INFO]: [AdminTools] This is release ver. 1.0
+[01:24:05] [Server thread/INFO]: [MaintenanceManager] Enabling MaintenanceManager v2.2*
+[01:24:07] [Server thread/INFO]: [MaintenanceManager] Initializing events...
+[01:24:07] [Server thread/INFO]: [MaintenanceManager] Registering commands...
+[01:24:07] [Server thread/INFO]: [AdvancedPortals] Enabling AdvancedPortals v0.5.10
+[01:24:07] [Server thread/INFO]: [AdvancedPortals] BLOCK_PORTAL_TRAVEL found
+[01:24:07] [Server thread/INFO]: Advanced portals have been successfully enabled!
+[01:24:07] [Server thread/INFO]: [InfoHUD] Enabling InfoHUD v1.2
+[01:24:07] [Server thread/INFO]: [InfoHUD] InfoHUD Enabling...
+[01:24:07] [Server thread/INFO]: [InfoHUD] NMS Version Detected: 1.16
+[01:24:07] [Server thread/INFO]: [InfoHUD] InfoHUD Successfully Enabled.
+[01:24:07] [Server thread/INFO]: [ImageMaps] Enabling ImageMaps v1.0.3
+[01:24:07] [Server thread/INFO]: [SecondNature] Enabling SecondNature v1.0.0
+[01:24:07] [Server thread/INFO]: [SecondNature] Loaded database file from path: plugins/SecondNature/second_nature_database.db
+[01:24:07] [Server thread/INFO]: [SecondNature] Database table created successfully.
+[01:24:07] [Server thread/INFO]: [SecondNature] background-reforestation.vegetation-type in config.yml is invalid, using default setting.
+[01:24:07] [Server thread/INFO]: [SecondNature] Plugin enabled! Please check the SpigotMC thread for updates.
+[01:24:07] [Server thread/INFO]: [SecondNature] SpigotMC thread: https://www.spigotmc.org/resources/natureplus-advanced-wilderness-tool.65639/
+[01:24:07] [Server thread/INFO]: [HubThat] Enabling HubThat v10.1.184
+[01:24:07] [Server thread/WARN]: [HubThat] HubThat: Checking if config exists...
+[01:24:07] [Server thread/WARN]: [HubThat] Loading config...
+[01:24:07] [Server thread/INFO]: [HubThat] All files are working correctly.
+[01:24:07] [Server thread/INFO]: [HubThat] Plugin HubThat Successfully Loaded!
+[01:24:07] [Server thread/INFO]: [CommandPerWorldBlocker] Enabling CommandPerWorldBlocker v1.0*
+[01:24:07] [Server thread/INFO]: [MultiverseHardcore] Enabling MultiverseHardcore v1.0*
+[01:24:07] [Server thread/INFO]: [BackupOnEvent] Enabling BackupOnEvent v1.6.4*
+[01:24:07] [Server thread/INFO]: [BackupOnEvent] Activated
+[01:24:07] [Server thread/INFO]: [BackupOnEvent] Interval backups running every 0 minutes
+[01:24:07] [Server thread/INFO]: [MoreJoinMessages] Enabling MoreJoinMessages v1.1*
+[01:24:07] [Server thread/INFO]: [WorldGuardFlags] Enabling WorldGuardFlags v0.1.1-dev*
+[01:24:07] [Server thread/INFO]: [ChatColor2] Enabling ChatColor2 v1.10.2
+[01:24:07] [Server thread/INFO]: [ChatColor] ChatColor 2 Version 1.10.2 has been enabled.
+[01:24:07] [Server thread/INFO]: [ChatColor] Current update: Confirm command refactored, new default-color-enabled setting & bug fixes!
+[01:24:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: cc
+[01:24:07] [Server thread/INFO]: [ChatColor] PlaceholderAPI has been hooked.
+[01:24:07] [Server thread/INFO]: [ChatColor] Metrics is enabled for this plugin. Stats sent to https://bstats.org/plugin/bukkit/ChatColor2
+[01:24:07] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.5
+[01:24:07] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[01:24:07] [Server thread/INFO]: [SignBoard] Enabling SignBoard v1.6.5
+[01:24:07] [Server thread/WARN]: [SignBoard] Loaded class net.milkbowl.vault.economy.Economy from Ultimate_Economy v1.2.6b which is not a depend, softdepend or loadbefore of this plugin.
+[01:24:07] [Server thread/INFO]: Enabled SignBoard. Running version 1.6.5
+[01:24:07] [Server thread/INFO]: [VentureChat] Enabling VentureChat v2.20.2
+[01:24:07] [Server thread/INFO]: [VentureChat] - Initializing...
+[01:24:07] [Server thread/INFO]: [VentureChat] - Config found! Loading file.
+[01:24:07] [Server thread/INFO]: [VentureChat] - Checking for Vault...
+[01:24:07] [Server thread/INFO]: [VentureChat] - Enabled Successfully
+[01:24:07] [Server thread/INFO]: [VentureChat] - Registering Listeners
+[01:24:07] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[01:24:08] [Server thread/ERROR]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Exception during pool initialization.
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_265]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_265]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:335) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2187) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2220) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2015) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:768) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47) ~[patched_1.16.4.jar:git-Paper-291]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_265]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_265]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:385) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:323) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:354) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:473) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:554) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[?:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[?:?]
+	at mineverse.Aust1n46.chat.database.MySQL.<init>(MySQL.java:24) ~[?:?]
+	at mineverse.Aust1n46.chat.MineverseChat.onEnable(MineverseChat.java:290) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:468) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:239) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:940) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.4.jar:git-Paper-291]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_265]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_265]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_265]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_265]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_265]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_265]
+	at java.net.Socket.connect(Socket.java:607) ~[?:1.8.0_265]
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:299) ~[patched_1.16.4.jar:git-Paper-291]
+	... 31 more
+[01:24:08] [Server thread/ERROR]: Error occurred while enabling VentureChat v2.20.2 (Is it up to date?)
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:589) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:575) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[?:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[?:?]
+	at mineverse.Aust1n46.chat.database.MySQL.<init>(MySQL.java:24) ~[?:?]
+	at mineverse.Aust1n46.chat.MineverseChat.onEnable(MineverseChat.java:290) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:468) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:239) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:940) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.4.jar:git-Paper-291]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_265]
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_265]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_265]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:335) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2187) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2220) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2015) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:768) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47) ~[patched_1.16.4.jar:git-Paper-291]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_265]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_265]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:385) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:323) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:354) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:473) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:554) ~[?:?]
+	... 14 more
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_265]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_265]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_265]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_265]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_265]
+	at java.net.Socket.connect(Socket.java:607) ~[?:1.8.0_265]
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:299) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2187) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2220) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2015) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:768) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47) ~[patched_1.16.4.jar:git-Paper-291]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_265]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_265]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:403) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:385) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:323) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:354) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:473) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:554) ~[?:?]
+	... 14 more
+[01:24:08] [Server thread/INFO]: [VentureChat] Disabling VentureChat v2.20.2
+[01:24:08] [Server thread/INFO]: [VentureChat] - Disabling...
+[01:24:08] [Server thread/INFO]: [VentureChat] - Disabled Successfully
+[01:24:08] [Server thread/INFO]: [AntiCheatReloaded] Enabling AntiCheatReloaded v1.9.5
+[01:24:08] [Server thread/INFO]: ACR > 1 check(s) have been disabled
+[01:24:08] [Server thread/INFO]: ACR > Running Minecraft version v1_16_R3 (supported)
+[01:24:08] [Server thread/INFO]: [AntiCheatReloaded] Enabling packet listeners
+[01:24:09] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Loaded class net.milkbowl.vault.economy.Economy from Ultimate_Economy v1.2.6b which is not a depend, softdepend or loadbefore of this plugin.
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[01:24:09] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: hub_the_end
+[01:24:09] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:09] [Server thread/INFO]: -------- World Settings For [hardcore_nether] --------
+[01:24:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:09] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:09] [Server thread/INFO]: View Distance: 18
+[01:24:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:09] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:09] [Server thread/INFO]: Preparing start region for dimension minecraft:hardcore_nether
+[01:24:09] [Server thread/INFO]: Loaded 0 spawn chunks for world hardcore_nether
+[01:24:09] [Server thread/INFO]: Preparing spawn area: 0%
+[01:24:09] [Server thread/INFO]: Preparing spawn area: 78%
+[01:24:09] [Server thread/INFO]: Time elapsed: 698 ms
+[01:24:09] [Server thread/INFO]: -------- World Settings For [realm2] --------
+[01:24:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:09] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:09] [Server thread/INFO]: View Distance: 18
+[01:24:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:09] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:09] [Server thread/INFO]: Preparing start region for dimension minecraft:realm2
+[01:24:09] [Server thread/INFO]: Loaded 0 spawn chunks for world realm2
+[01:24:09] [Server thread/INFO]: Preparing spawn area: 0%
+[01:24:09] [Server thread/INFO]: Time elapsed: 25 ms
+[01:24:10] [Server thread/INFO]: -------- World Settings For [realm1] --------
+[01:24:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:10] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:10] [Server thread/INFO]: View Distance: 18
+[01:24:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:10] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:realm1
+[01:24:10] [Server thread/INFO]: Loaded 0 spawn chunks for world realm1
+[01:24:10] [Server thread/INFO]: Time elapsed: 107 ms
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: voidhub1
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: ooga
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/INFO]: -------- World Settings For [realm1_nether] --------
+[01:24:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:10] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:10] [Server thread/INFO]: View Distance: 18
+[01:24:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:10] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:realm1_nether
+[01:24:10] [Server thread/INFO]: Loaded 0 spawn chunks for world realm1_nether
+[01:24:10] [Server thread/INFO]: Time elapsed: 203 ms
+[01:24:10] [Server thread/INFO]: -------- World Settings For [realm2_nether] --------
+[01:24:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:10] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:10] [Server thread/INFO]: View Distance: 18
+[01:24:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:10] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:realm2_nether
+[01:24:10] [Server thread/INFO]: Loaded 0 spawn chunks for world realm2_nether
+[01:24:10] [Server thread/INFO]: Time elapsed: 27 ms
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: hub_nether
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: chunk_error
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: voidhub
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: netherupdate
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: survival_16
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/INFO]: -------- World Settings For [realm1_the_end] --------
+[01:24:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:10] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:10] [Server thread/INFO]: View Distance: 18
+[01:24:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:10] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:realm1_the_end
+[01:24:10] [Server thread/INFO]: Loaded 0 spawn chunks for world realm1_the_end
+[01:24:10] [Server thread/INFO]: Time elapsed: 62 ms
+[01:24:10] [Server thread/INFO]: Could not set generator for world 'hardcore': Plugin '' does not exist
+[01:24:10] [Server thread/INFO]: -------- World Settings For [hardcore] --------
+[01:24:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:10] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:10] [Server thread/INFO]: View Distance: 18
+[01:24:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:10] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:hardcore
+[01:24:10] [Server thread/INFO]: Loaded 0 spawn chunks for world hardcore
+[01:24:10] [Server thread/INFO]: Time elapsed: 32 ms
+[01:24:10] [Server thread/INFO]: Could not set generator for world 'hardcore': Plugin '' does not exist
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: hardcore_the_end
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/INFO]: [BetterEnd] Loading world configuration values for Survival_the_end...
+[01:24:10] [Server thread/INFO]: [BetterEnd] World load complete. Time elapsed: 30.06432ms
+[01:24:10] [Server thread/INFO]: [BetterEnd] Loading world configuration values for Survival_the_end...
+[01:24:10] [Server thread/INFO]: [BetterEnd] World load complete. Time elapsed: 2.59371ms
+[01:24:10] [Server thread/INFO]: -------- World Settings For [realm2_the_end] --------
+[01:24:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:10] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:10] [Server thread/INFO]: View Distance: 18
+[01:24:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:10] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:realm2_the_end
+[01:24:10] [Server thread/INFO]: Loaded 0 spawn chunks for world realm2_the_end
+[01:24:10] [Server thread/INFO]: Time elapsed: 31 ms
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: hub1
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
+[01:24:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:24:10] [Server thread/INFO]: -------- World Settings For [hub] --------
+[01:24:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:24:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:24:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:24:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:24:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:24:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01:24:10] [Server thread/INFO]: Max TNT Explosions: 100
+[01:24:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:24:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:24:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:24:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:24:10] [Server thread/INFO]: View Distance: 18
+[01:24:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:24:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:24:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:24:10] [Server thread/INFO]: Mob Spawn Range: 8
+[01:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:hub
+[01:24:10] [Server thread/INFO]: Loaded 0 spawn chunks for world hub
+[01:24:10] [Server thread/INFO]: Time elapsed: 252 ms
+[01:24:11] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[01:24:11] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'backuptrash'...
+[01:24:11] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'remove'...
+[01:24:11] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'hub'...
+[01:24:12] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[01:24:12] [Server thread/INFO]: [ColoredTags] Enabling ColoredTags v2.1.3*
+[01:24:12] [Server thread/INFO]: [iDisguise] Enabling iDisguise v5.8.2
+[01:24:12] [Server thread/ERROR]: [iDisguise] iDisguise 5.8.2 is not compatible with your server version!
+[01:24:12] [Server thread/INFO]: [iDisguise] Disabling iDisguise v5.8.2
+[01:24:12] [Server thread/INFO]: [Ultimate_Economy] Enabling Ultimate_Economy v1.2.6b
+[01:24:12] [Server thread/INFO]: [UltimateEconomy] [Ultimate_Economy] Loading language file: 'en' 'US'
+[01:24:13] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v4.0.3
+[01:24:13] [Server thread/INFO]: [ChestCommands] Hooked Vault
+[01:24:13] [Server thread/INFO]: [ChestCommands] Hooked PlaceholderAPI
+[01:24:13] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.1-b490
+[01:24:13] [Server thread/INFO]: [Multiverse-Inventories] The following worlds for group 'hardcore' are not loaded: hardcore_the_end
+[01:24:13] [Server thread/INFO]: [Multiverse-Inventories 4.2.1-b490] enabled.
+[01:24:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[01:24:13] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:24:13] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:24:13] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[01:24:13] [Server thread/INFO]: [Essentials] Using locale en_US
+[01:24:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:24:13] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:24:13] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[01:24:13] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[01:24:13] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: Ultimate_Economy version: 1.7.3-b131)
+[01:24:13] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[01:24:13] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[01:24:13] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.0-b826
+[01:24:13] [Server thread/INFO]: [Multiverse-Portals] 5 - Portals(s) loaded
+[01:24:13] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[01:24:13] [Server thread/INFO]: [Multiverse-Portals 4.2.0-b826]  Enabled - By Rigby and fernferret
+[01:24:13] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Survival'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_nether) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_nether) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_nether) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_nether) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Survival_nether'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_the_end) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_the_end) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_the_end) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (Survival_the_end) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Survival_the_end'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore_nether) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore_nether) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore_nether) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore_nether) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'hardcore_nether'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'realm2'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'realm1'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_nether) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_nether) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_nether) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_nether) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'realm1_nether'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_nether) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_nether) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_nether) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_nether) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'realm2_nether'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_the_end) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_the_end) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_the_end) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm1_the_end) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'realm1_the_end'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hardcore) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'hardcore'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_the_end) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_the_end) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_the_end) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (realm2_the_end) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'realm2_the_end'
+[01:24:13] [Server thread/WARN]: [WorldGuard] Failed to parse the block / item type specified as 'workbench'
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hub) TNT ignition is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hub) Lighters are PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hub) Lava fire is PERMITTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] (hub) Fire spread is UNRESTRICTED.
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'hub'
+[01:24:13] [Server thread/INFO]: [WorldGuard] Loading region data...
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] Enabling BetterSleeping3 v3.0.4
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] Detected Multiverse-Core. Delayed detection of worlds until Multiverse-Core loaded them into memory.
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] No missing options were found in config.yml!
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] No missing options were found in sleeping_settings.yml!
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] No missing options were found in hooks.yml!
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] No missing options were found in bypassing.yml!
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] Using localised lang file for: en-US
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] No missing options were found in lang/en-us.yml!
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] Using 'smooth' as night skip mode
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] Using required sleepers counter 'percentage' which is set to 30% of players required
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] Found 12 worlds in memory.
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] The message below is always shown, even if collecting data is disabled: 
+[01:24:14] [Server thread/INFO]: [BetterSleeping3] BetterSleeping collects anonymous statistics once every 30 minutes. Opt-out at bStats/config.yml
+[01:24:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: bettersleeping
+[01:24:14] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.18.2.0
+[01:24:14] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[01:24:14] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[01:24:14] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
+[01:24:14] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[01:24:14] [Server thread/ERROR]: [EssentialsGeoIP] Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins/EssentialsGeoIP/GeoIP2-Country.mmdb (No such file or directory)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_265]
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:316) ~[?:1.8.0_265]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:243) ~[?:1.8.0_265]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:175) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:52) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:468) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:239) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:940) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.4.jar:git-Paper-291]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_265]
+[01:24:14] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[01:24:14] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[01:24:14] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v4.2.1-b786
+[01:24:14] [Thread-30/INFO]: [BetterSleeping3] You are using the latest version: 3.0.4
+[01:24:14] [Server thread/INFO]: [Multiverse-NetherPortals 4.2.1-b786]  Enabled - By Rigby and fernferret
+[01:24:14] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v19.2
+[01:24:14] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[01:24:14] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[01:24:14] [Server thread/INFO]: --------------------
+[01:24:14] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[01:24:14] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[01:24:14] [Server thread/INFO]: --------------------
+[01:24:14] [Server thread/INFO]: [Skript] Enabling Skript v2.5.2
+[01:24:15] [ForkJoinPool.commonPool-worker-9/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[01:24:18] [Server thread/INFO]: [Skript] Loaded 128188 aliases in 4182ms
+[01:24:19] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[01:24:19] [Server thread/INFO]: [Reputation] Enabling Reputation v1.7.0
+[01:24:19] [Server thread/INFO]: [Reputation] Plugin Loading
+[01:24:19] [Server thread/INFO]: [Reputation] Loading configuration file
+[01:24:19] [Server thread/INFO]: [Reputation] Loading Language file
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: Survival
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: Survival_nether
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: Survival_the_end
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: realm1
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: realm1_nether
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: realm1_the_end
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: realm2
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: realm2_nether
+[01:24:19] [Server thread/INFO]: [Reputation] Adding allowed world: realm2_the_end
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: CARROT
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: POTATO
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: APPLE
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: MUSHROOM_STEW
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: BREAD
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: COOKED_PORTCHOP
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: FISH
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: COOKED_FISH
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: COOKIE
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: MELON
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: COOKED_BEEF
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: COOKED_CHICKEN
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: BAKED_POTATO
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: PUMPKIN_PIE
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: COOKED_RABBIT
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: COOKED_MUTTON
+[01:24:19] [Server thread/INFO]: [Reputation] Adding good food: BEETROOT_SOUP
+[01:24:19] [Server thread/INFO]: [Reputation] Adding bad food: POISONOUS_POTATO
+[01:24:19] [Server thread/INFO]: [Reputation] Adding bad food: SPIDER_EYE
+[01:24:19] [Server thread/INFO]: [Reputation] Adding bad food: ROTTEN_FLESH
+[01:24:19] [Server thread/INFO]: [Reputation] Adding bad food: CHICKEN
+[01:24:19] [Server thread/INFO]: [Reputation] Adding bad food: ROTTEN_FLESH
+[01:24:19] [Server thread/INFO]: [Reputation] BYTE scoreboard disabled in config
+[01:24:19] [Server thread/INFO]: [Reputation] Scoreboard Stats not Found
+[01:24:19] [Server thread/INFO]: [Reputation] World Guard Enabled
+[01:24:19] [Server thread/INFO]: [Reputation] Citizens plugin not Found
+[01:24:19] [Server thread/INFO]: [Reputation] Thanks for using the BYTE reputation plugin - www.byte.org.uk!
+[01:24:19] [Server thread/INFO]: [HolographicDisplaysAddon] Enabling HolographicDisplaysAddon v1.0.0b*
+[01:24:19] [Server thread/INFO]: [HolographicAddon] has been enabled!
+[01:24:19] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.20.0
+[01:24:19] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.10.2;21180b0
+[01:24:19] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[01:24:19] [Server thread/ERROR]: Error occurred while enabling CraftBook v3.10.2;21180b0 (Is it up to date?)
+org.yaml.snakeyaml.error.YAMLException: java.nio.charset.MalformedInputException: Input length = 1
+	at org.yaml.snakeyaml.reader.StreamReader.update(StreamReader.java:218) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.reader.StreamReader.ensureEnoughData(StreamReader.java:176) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.reader.StreamReader.ensureEnoughData(StreamReader.java:171) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.reader.StreamReader.peek(StreamReader.java:126) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.scanToNextToken(ScannerImpl.java:1177) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:287) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:227) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseImplicitDocumentStart.produce(ParserImpl.java:195) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:118) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:472) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:424) ~[patched_1.16.4.jar:git-Paper-291]
+	at com.sk89q.util.yaml.YAMLProcessor.load(YAMLProcessor.java:117) ~[?:?]
+	at com.sk89q.craftbook.bukkit.CraftBookPlugin.setupCraftBook(CraftBookPlugin.java:540) ~[?:?]
+	at com.sk89q.craftbook.bukkit.CraftBookPlugin.onEnable(CraftBookPlugin.java:451) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:468) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:239) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:940) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.4.jar:git-Paper-291]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_265]
+Caused by: java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(CoderResult.java:281) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_265]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_265]
+	at org.yaml.snakeyaml.reader.UnicodeReader.read(UnicodeReader.java:125) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.yaml.snakeyaml.reader.StreamReader.update(StreamReader.java:183) ~[patched_1.16.4.jar:git-Paper-291]
+	... 26 more
+[01:24:19] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.10.2;21180b0
+[01:24:19] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[01:24:19] [Server thread/INFO]: [OpenAudioMc] Enabling OpenAudioMc v6.3.7
+[01:24:19] [Server thread/INFO]: [OpenAudioMc] Starting in bungee mode
+[01:24:19] [Server thread/INFO]: [OpenAudioMc] Starting configuration module
+[01:24:19] [Server thread/INFO]: [OpenAudioMc] Starting authentication module
+[01:24:19] [Server thread/INFO]: [OpenAudioMc] This server already has an account, skipping sign up.
+[01:24:19] [Server thread/INFO]: [OpenAudioMc] Skipped 10 migrations.
+[01:24:20] [Server thread/INFO]: [OpenAudioMc] Loading aliases...
+[01:24:20] [Server thread/INFO]: [OpenAudioMc] Loaded 0 aliases
+[01:24:20] [Server thread/INFO]: [OpenAudioMc] Detected version type: MODERN
+[01:24:20] [Server thread/INFO]: [OpenAudioMc] Enabling the 1.13 speaker system
+[01:24:20] [Server thread/INFO]: [OpenAudioMc] Turns out you have WorldGuard installed! enabling regions and the region tasks..
+[01:24:20] [Server thread/INFO]: [OpenAudioMc] Enabling the newer 1.13 regions
+[01:24:20] [Server thread/INFO]: [OpenAudioMc] Starting and loading took 21527MS
+[01:24:20] [Server thread/INFO]: [AdvancementsAddon] Enabling AdvancementsAddon v1.0.0*
+[01:24:20] [Server thread/INFO]: [AdvancementsAddon] has been enabled!
+[01:24:20] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[01:24:20] [Server thread/INFO]: No expansions were registered!
+[01:24:20] [Server thread/INFO]: Running delayed init tasks
+[01:24:20] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4(754)
+[01:24:20] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[01:24:21] [Server thread/INFO]: [Skript] Loading variables...
+[01:24:21] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[01:24:21] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[01:24:21] [Server thread/WARN]: [Skript] No scripts were found, maybe you should write some ;) (config.sk, line 188: databases:')
+[01:24:21] [Server thread/INFO]: [Skript] Finished loading.
+[01:24:21] [Server thread/INFO]: [ViaVersion] Shutting down mapping loader executor!
+[01:24:21] [Server thread/INFO]: Done (27.323s)! For help, type "help"
+[01:24:21] [Server thread/INFO]: Timings Reset
+[01:24:21] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (2beb615ff51fc9e03edf79a2e06b88aca973e9ea)
+[01:24:21] [Server thread/WARN]: [ViaVersion] You are running a newer version than is released!
+[01:24:21] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[01:24:21] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[01:24:21] [Thread-35/INFO]: [CoreProtect] No donation key found. Please check config.yml.
+[01:24:22] [Thread-35/INFO]: --------------------
+[01:24:22] [Thread-35/INFO]: [CoreProtect] Version 19.3 is now available.
+[01:24:22] [Thread-35/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[01:24:22] [Thread-35/INFO]: --------------------
+[01:24:23] [Log4j2-TF-1-AsyncLogger[AsyncContext@70dea4e]-1/INFO]: [DiscordSRV] [JDA] Login Successful!
+[01:24:23] [Log4j2-TF-1-AsyncLogger[AsyncContext@70dea4e]-1/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[01:24:24] [Log4j2-TF-1-AsyncLogger[AsyncContext@70dea4e]-1/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Dank Friend Minecraft(598610019084271752)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:info-desk(767048723275841546)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(598610019683926057)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:memes(689702642448072727)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:discussions(689838302551081076)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:heads-up(690609155269984288)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:global(765984011032985610)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:voice-chat-messages(691150534458998784)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:bot-commands(727383475165855745)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server-log(765984280202444831)
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 765984280202444831
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
+[01:24:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling PlaceholderAPI hook
+[01:24:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: discordsrv
+[01:24:25] [Server thread/INFO]: [OpenAudioMc] New Identity = QnZz4QdvvgCQFHUQoEvp-v6v!
+[01:24:26] [Server thread/INFO]: Loading npcs...
+[01:24:26] [Server thread/INFO]: (Loaded 0 npcs in 7ms)
+[01:24:28] [Server thread/INFO]: SignBoard will automatically check for and install updates.
+[01:24:28] [Server thread/INFO]: You can control this behavior in config.yml, by changing 'updates:' to auto, check or off
+[01:24:28] [Server thread/INFO]: You have the latest version: SignBoard version 1.6.5
+[01:24:28] [Server thread/INFO]: [BetterEnd] You're running the free version of BetterEnd. Please consider purchasing the premium version to support the plugin and gain additional features!
+[01:24:28] [Server thread/INFO]: [BetterEnd] More information can be found here: https://github.com/dfsek/BetterEnd-Public/wiki/Premium
+[02:25:21] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:143) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:848) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:868) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:575) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[patched_1.16.4.jar:git-Paper-291]
+	at net.minecraft.server.v1_16_R3.DedicatedServer$1.run(DedicatedServer.java:67) ~[patched_1.16.4.jar:git-Paper-291]
+Caused by: java.io.IOException: Input/output error
+	at java.io.FileInputStream.read0(Native Method) ~[?:1.8.0_265]
+	at java.io.FileInputStream.read(FileInputStream.java:207) ~[?:1.8.0_265]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[patched_1.16.4.jar:git-Paper-291]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133) ~[patched_1.16.4.jar:git-Paper-291]
+	... 9 more
+[02:25:21] [Server thread/INFO]: Stopping server
+[02:25:21] [Server thread/INFO]: [OpenAudioMc] Shutting down
+[02:25:22] [Server thread/INFO]: [OpenAudioMc] Stopped OpenAudioMc. Goodbye.
+[02:25:28] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:25:28] [Server thread/INFO]: Disabled SignBoard
+[02:25:28] [Server thread/INFO]: [ChatColor] ChatColor 2 Version 1.10.2 has been disabled.
+[02:25:28] [Server thread/INFO]: [InfoHUD] InfoHUD Disabled
+[02:25:28] [Server thread/INFO]: Advanced portals are being disabled!
+[02:25:28] [Server thread/INFO]: [WITG] Plugin disabled!
+[02:25:28] [Server thread/INFO]: [ExpertHub] Plugin disabled!
+[02:25:28] [Server thread/INFO]: (Saved 0npcs in 4ms)
+[02:25:28] [Server thread/INFO]: Saving players
+[02:25:28] [Server thread/INFO]: Saving worlds
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival]'/minecraft:overworld
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_nether]'/minecraft:the_nether
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival_the_end]'/minecraft:the_end
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[hardcore_nether]'/minecraft:hardcore_nether
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[realm2]'/minecraft:realm2
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (realm2): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[realm1]'/minecraft:realm1
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (realm1): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[realm1_nether]'/minecraft:realm1_nether
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[realm2_nether]'/minecraft:realm2_nether
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[realm1_the_end]'/minecraft:realm1_the_end
+[02:25:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:25:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[hardcore]'/minecraft:hardcore
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (hardcore): All chunks are saved
+[02:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[realm2_the_end]'/minecraft:realm2_the_end
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[hub]'/minecraft:hub
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (hub): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (realm2): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (realm1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (hardcore): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:25:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (hub): All chunks are saved
+[02:25:29] [Server thread/INFO]: Flushing Chunk IO
+[02:25:29] [Server thread/INFO]: Closing Thread Pool
+[02:25:29] [Server thread/INFO]: Closing Server
