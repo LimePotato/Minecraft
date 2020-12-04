@@ -2,7 +2,7 @@
 *.zip 
 *.sh
 *.py
-
+*.lock
 
 #paths:
 *admin/
