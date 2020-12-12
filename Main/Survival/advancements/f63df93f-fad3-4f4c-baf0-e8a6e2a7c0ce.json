@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-10-14 20:00:52 -0600"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2020-11-29 15:13:16 -0700"
@@ -116,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-10-14 20:30:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
     },
     "done": true
   },
@@ -218,6 +236,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-10-14 20:00:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-12-07 17:55:38 -0700"
     },
     "done": true
   },
@@ -407,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-16 15:39:01 -0600"
@@ -485,9 +515,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2020-10-14 20:40:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-12-07 17:25:59 -0700"
     },
     "done": true
   },
@@ -512,6 +554,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-10-14 20:00:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_the_recipe": "2020-12-07 18:04:27 -0700"
     },
     "done": true
   },
@@ -614,6 +662,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-10-14 22:29:03 -0600"
@@ -644,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-10-14 20:05:58 -0600"
@@ -668,6 +728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-10-14 20:36:48 -0600"
@@ -683,6 +749,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-10-14 20:37:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
     },
     "done": true
   },
@@ -743,6 +815,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-11-28 20:32:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
     },
     "done": true
   },
@@ -848,6 +926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-10-14 22:28:33 -0600"
@@ -884,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-10-14 22:28:10 -0600"
@@ -917,6 +1007,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2020-11-30 15:41:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
     },
     "done": true
   },
@@ -998,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-10-14 19:54:45 -0600"
@@ -1013,6 +1115,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-10-14 20:17:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
     },
     "done": true
   },
@@ -1258,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2020-10-15 14:22:36 -0600"
@@ -1267,6 +1381,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-10-16 15:39:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
     },
     "done": true
   },
@@ -1306,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-10-14 22:05:34 -0600"
@@ -1327,6 +1453,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-12-06 20:54:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
     },
     "done": true
   },
@@ -1457,6 +1589,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-10-14 20:30:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
     },
     "done": true
   },
@@ -1598,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2020-10-14 20:30:03 -0600"
@@ -1655,6 +1799,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2020-12-01 20:12:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-07 18:04:54 -0700"
     },
     "done": true
   },
@@ -1870,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-11-29 15:12:21 -0700"
@@ -1892,6 +2048,7 @@
     "criteria": {
       "minecraft:mule": "2020-10-19 15:57:10 -0600",
       "minecraft:cow": "2020-10-15 14:24:37 -0600",
+      "minecraft:chicken": "2020-12-07 17:54:00 -0700",
       "minecraft:horse": "2020-10-19 15:42:30 -0600"
     },
     "done": false
@@ -2046,6 +2203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2020-12-01 19:37:02 -0700"
@@ -2172,6 +2335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-10-19 15:39:19 -0600"
@@ -2181,6 +2350,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2020-10-16 16:27:37 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
     },
     "done": true
   },
@@ -2370,6 +2545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-01 19:00:56 -0700"
@@ -2445,6 +2626,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-10-14 20:24:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
     },
     "done": true
   },
@@ -2955,6 +3142,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-10-15 20:23:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-07 17:58:13 -0700"
     },
     "done": true
   },

@@ -1221,6 +1221,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2020-12-11 10:11:27 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_the_recipe": "2020-06-26 13:20:46 -0600"
@@ -3992,6 +3998,7 @@
       "beetroot": "2020-06-25 13:46:12 -0600",
       "cooked_rabbit": "2020-07-27 15:15:27 -0600",
       "cooked_chicken": "2020-06-24 20:38:23 -0600",
+      "mushroom_stew": "2020-12-11 10:30:23 -0700",
       "cod": "2020-11-28 23:02:20 -0700",
       "cooked_salmon": "2020-06-26 11:05:29 -0600",
       "carrot": "2020-06-26 14:12:39 -0600"
@@ -4247,6 +4254,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2020-06-28 11:07:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-11 13:46:03 -0700"
     },
     "done": true
   },
