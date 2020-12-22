@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-12-18 19:30:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-07 19:51:21 -0700"
@@ -158,6 +164,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-12-07 19:44:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-12-18 19:27:20 -0700"
     },
     "done": true
   },
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-12-18 19:30:27 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-12-07 19:44:06 -0700"
@@ -305,7 +323,8 @@
       "cooked_mutton": "2020-12-07 19:43:28 -0700",
       "baked_potato": "2020-12-10 19:22:17 -0700",
       "potato": "2020-12-10 19:18:32 -0700",
-      "golden_apple": "2020-12-10 19:13:34 -0700"
+      "golden_apple": "2020-12-10 19:13:34 -0700",
+      "carrot": "2020-12-18 19:30:11 -0700"
     },
     "done": false
   },
@@ -396,6 +415,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-12-14 22:08:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-12-18 19:30:37 -0700"
     },
     "done": true
   },
@@ -959,6 +984,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-12-07 19:48:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-12-18 19:30:27 -0700"
     },
     "done": true
   },

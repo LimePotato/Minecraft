@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2020-12-14 19:00:43 -0700"
@@ -296,6 +302,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2020-12-07 20:13:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
     },
     "done": true
   },
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2020-12-13 17:53:58 -0700"
@@ -362,6 +380,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-07 16:53:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
     },
     "done": true
   },
@@ -606,10 +630,18 @@
       "minecraft:spider": "2020-12-11 12:33:09 -0700",
       "minecraft:creeper": "2020-12-14 22:33:14 -0700",
       "minecraft:slime": "2020-12-13 21:56:05 -0700",
+      "minecraft:witch": "2020-12-19 13:54:06 -0700",
+      "minecraft:husk": "2020-12-19 13:52:51 -0700",
       "minecraft:piglin": "2020-12-11 16:24:36 -0700",
       "minecraft:zombie": "2020-12-07 17:02:15 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-12-19 13:58:23 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -752,6 +784,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2020-12-07 20:10:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
     },
     "done": true
   },
@@ -1217,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-12-09 16:59:15 -0700"
@@ -1253,6 +1297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2020-12-14 22:48:48 -0700"
@@ -1263,6 +1313,7 @@
     "criteria": {
       "minecraft:forest": "2020-12-07 16:45:02 -0700",
       "minecraft:mountains": "2020-12-07 16:46:16 -0700",
+      "minecraft:badlands_plateau": "2020-12-19 13:57:35 -0700",
       "minecraft:taiga": "2020-12-13 17:50:44 -0700",
       "minecraft:taiga_hills": "2020-12-13 21:50:21 -0700",
       "minecraft:desert": "2020-12-07 16:45:52 -0700",
@@ -1273,6 +1324,7 @@
       "minecraft:birch_forest_hills": "2020-12-07 16:54:29 -0700",
       "minecraft:wooded_mountains": "2020-12-07 17:21:12 -0700",
       "minecraft:wooded_hills": "2020-12-07 16:45:00 -0700",
+      "minecraft:wooded_badlands_plateau": "2020-12-19 13:56:20 -0700",
       "minecraft:swamp": "2020-12-07 16:49:41 -0700",
       "minecraft:plains": "2020-12-07 16:50:53 -0700"
     },
@@ -1527,6 +1579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-12-07 16:51:26 -0700"
@@ -1557,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-12-07 16:58:40 -0700"
@@ -1566,6 +1630,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2020-12-11 11:59:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
     },
     "done": true
   },
@@ -1814,6 +1884,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-12-07 16:49:30 -0700"
@@ -1895,6 +1971,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-07 20:10:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
     },
     "done": true
   },
@@ -2492,6 +2574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2020-12-07 20:03:11 -0700"
@@ -2576,6 +2664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-07 20:13:58 -0700"
@@ -2585,6 +2679,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-13 17:14:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
     },
     "done": true
   },
@@ -2627,6 +2727,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2020-12-14 22:48:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-12-19 13:58:19 -0700"
     },
     "done": true
   },
