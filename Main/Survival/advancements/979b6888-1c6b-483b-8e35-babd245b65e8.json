@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-12-22 15:04:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2020-11-28 21:09:02 -0700"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-12-22 16:12:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2020-10-13 13:24:46 -0600"
@@ -707,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-12-22 15:04:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-07-04 10:21:09 -0600"
@@ -734,6 +752,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2020-10-15 18:53:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
     },
     "done": true
   },
@@ -881,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2020-11-28 17:46:34 -0700"
@@ -995,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-07-05 18:39:26 -0600"
@@ -1016,6 +1052,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-07-05 18:47:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
     },
     "done": true
   },
@@ -1301,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2020-08-02 11:18:06 -0600"
@@ -1469,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-08-01 18:52:44 -0600"
@@ -1490,6 +1544,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-07-04 10:23:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
     },
     "done": true
   },
@@ -1722,6 +1782,7 @@
       "minecraft:deep_cold_ocean": "2020-12-01 15:15:44 -0700",
       "minecraft:taiga_hills": "2020-10-18 14:00:27 -0600",
       "minecraft:desert": "2020-07-04 10:20:12 -0600",
+      "minecraft:deep_frozen_ocean": "2020-12-23 19:33:07 -0700",
       "minecraft:jungle": "2020-08-01 12:57:09 -0600",
       "minecraft:birch_forest": "2020-08-01 12:48:47 -0600",
       "minecraft:jungle_hills": "2020-10-16 19:43:41 -0600",
@@ -1817,6 +1878,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_redstone_ore": "2020-10-15 13:24:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
     },
     "done": true
   },
@@ -1967,6 +2034,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-11-29 16:37:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
     },
     "done": true
   },
@@ -2169,6 +2242,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-10-17 10:37:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
     },
     "done": true
   },
@@ -2460,6 +2539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-23 20:03:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2020-10-13 13:24:21 -0600"
@@ -2499,6 +2584,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-07-04 10:30:30 -0600",
+      "cooked_mutton": "2020-12-23 19:13:03 -0700",
       "sweet_berries": "2020-08-01 14:42:55 -0600",
       "cooked_beef": "2020-10-14 21:49:32 -0600",
       "apple": "2020-08-01 19:47:02 -0600",
@@ -3067,6 +3153,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-01 14:44:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-12-23 19:33:17 -0700"
     },
     "done": true
   },
@@ -3727,6 +3819,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-10-15 18:10:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-12-22 15:04:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2020-12-23 23:08:35 -0700"
     },
     "done": true
   },

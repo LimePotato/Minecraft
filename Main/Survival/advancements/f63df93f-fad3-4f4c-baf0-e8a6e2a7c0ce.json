@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-12-23 19:03:28 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-10-14 21:12:35 -0600"
@@ -1438,6 +1444,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-12-23 18:42:37 -0700",
       "minecraft:forest": "2020-10-14 19:49:22 -0600",
       "minecraft:mountains": "2020-10-14 19:52:33 -0600",
       "minecraft:taiga": "2020-10-14 22:30:21 -0600",
@@ -1585,6 +1592,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-10-14 22:05:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-12-23 23:12:34 -0700"
     },
     "done": true
   },
@@ -2753,6 +2766,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-10-14 20:30:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2020-12-23 23:12:34 -0700"
     },
     "done": true
   },
