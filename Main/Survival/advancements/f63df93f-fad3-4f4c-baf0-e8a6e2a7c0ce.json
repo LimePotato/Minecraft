@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2020-12-14 17:25:53 -0700"
@@ -752,6 +758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2021-01-06 21:59:24 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2020-10-14 20:14:08 -0600"
@@ -863,6 +875,12 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2020-12-06 21:13:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2021-01-06 21:59:24 -0700"
     },
     "done": true
   },
@@ -1388,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-10-14 20:13:55 -0600"
@@ -1634,6 +1658,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-10-15 19:20:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_the_recipe": "2021-01-06 21:56:50 -0700"
     },
     "done": true
   },
@@ -2391,6 +2421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-10-14 22:15:23 -0600"
@@ -2739,6 +2775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-10-14 22:05:34 -0600"
@@ -2799,6 +2841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-10-14 20:05:53 -0600"
@@ -2808,6 +2856,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-07 17:58:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
     },
     "done": true
   },
@@ -2958,6 +3012,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-10-18 14:36:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2021-01-06 21:59:58 -0700"
     },
     "done": true
   },
@@ -3369,6 +3429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/tabby.png": "2020-12-14 15:58:20 -0700",
@@ -3462,6 +3528,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2020-10-15 14:21:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2021-01-06 21:59:58 -0700"
     },
     "done": true
   },

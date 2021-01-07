@@ -3740,6 +3740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2021-01-05 17:56:52 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-08-20 21:42:12 -0600"
